@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MultiplyNumbers",
+            "request": "launch",
+            "mainClass": "MultiplyNumbers",
+            "projectName": "Number_multiply_ff547308"
+        }
+    ]
+}
